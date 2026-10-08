@@ -1,0 +1,6 @@
+interface:
+  display_name: "影视思维助手"
+  short_description: "整合影视纠错与判断经验、空间光影知识，按当前项目生成和修订资产提示词"
+  default_prompt: "使用 $film-thinking-assistant，按当前项目要求处理这次影视资产任务，并保留我已认可的设计。"
+policy:
+  allow_implicit_invocation: true
