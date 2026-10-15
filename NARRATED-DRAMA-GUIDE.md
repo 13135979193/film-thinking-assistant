@@ -4,6 +4,15 @@
 
 ## 其他电脑安装
 
+### 下载安装器
+
+- Mac：[下载双击安装文件](https://github.com/13135979193/film-thinking-assistant/raw/refs/heads/main/install-narrated-drama.command)。保存后双击运行；若浏览器没有保留执行权限，让Codex运行该文件即可。系统若要求确认来源，按实际提示处理，不需要关闭系统保护。
+- Windows：[下载PowerShell安装脚本](https://github.com/13135979193/film-thinking-assistant/raw/refs/heads/main/install-narrated-drama.ps1)。在PowerShell运行，或交给Codex执行；如策略不允许脚本，改用下面的一句话安装，不需要更改安全策略。此脚本尚未在Windows实机验证。
+
+安装器会下载公开仓库，只安装解说漫自动化；已有版本先备份。默认装入用户Codex技能目录，尊重 `CODEX_HOME`。不安装图像工具，也不改原影视助手；需要接入时用下面的安装口令。Mac安装器已在临时目录实测安装与更新备份。
+
+### 一句话安装（各平台推荐）
+
 [打开技能安装地址](https://github.com/13135979193/film-thinking-assistant/tree/main/skills/narrated-drama-automation)
 
 在另一台电脑的 Codex 中复制发送下面这一句即可，不需要逐个复制文件：

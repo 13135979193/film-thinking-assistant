@@ -6,6 +6,8 @@
 
 **[安装地址](https://github.com/13135979193/film-thinking-assistant/tree/main/skills/narrated-drama-automation) · [完整使用教程](NARRATED-DRAMA-GUIDE.md)**
 
+[Mac双击安装文件](https://github.com/13135979193/film-thinking-assistant/raw/refs/heads/main/install-narrated-drama.command) · [Windows安装脚本](https://github.com/13135979193/film-thinking-assistant/raw/refs/heads/main/install-narrated-drama.ps1)（Windows脚本尚未实机验证）
+
 把下面一句发给另一台电脑的Codex：
 
 ```text
