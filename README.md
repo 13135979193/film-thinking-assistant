@@ -1,5 +1,21 @@
 # 影视思维助手
 
+## 新增：解说漫自动化
+
+从剧本核对到场景/道具设计、图像生成、按编号嵌入Excel和检查打包的一套工作流，可独立安装，也可作为影视助手的任务入口。
+
+**[安装地址](https://github.com/13135979193/film-thinking-assistant/tree/main/skills/narrated-drama-automation) · [完整使用教程](NARRATED-DRAMA-GUIDE.md)**
+
+把下面一句发给另一台电脑的Codex：
+
+```text
+使用 $skill-installer 安装 https://github.com/13135979193/film-thinking-assistant/tree/main/skills/narrated-drama-automation ，保留全部附带文件。如果本机已有影视助手，将“解说漫自动化”加入它的任务路由，不覆盖其他功能。
+```
+
+安装后新开一轮，输入 **解说漫自动化** 并附上剧本和资产表即可。网页不会自行执行本机安装；实际生图使用目标电脑自己的可用工具与额度。此发布不包含私人剧本或项目图片。
+
+---
+
 一个可安装的 Codex skill，将已记录的影视判断、纠错经验、光影与空间知识用于当前任务。
 
 ## 安装
