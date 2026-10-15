@@ -1,0 +1,4 @@
+interface:
+  display_name: "解说漫自动化"
+  short_description: "核对剧本并完成影视资产设计、批量生成、图片入表及交付检查"
+  default_prompt: "使用 $narrated-drama-automation，根据我提供的剧本和资产表，先核对原文与角色定位，再完成我要求的场景或道具生成、图片入表和打包交付。"
